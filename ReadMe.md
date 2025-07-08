@@ -1,4 +1,5 @@
 # 🤖 Telegram Voice RAG Bot
+Link: http://t.me/viknohelperbot
 
 A voice-enabled Telegram bot that:
 
